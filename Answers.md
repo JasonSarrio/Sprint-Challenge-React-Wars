@@ -14,7 +14,8 @@ Think in react means being able to see an entire project broken down into consti
 1. Describe state.
 
 data
-
+ 
+ 
 1. Describe props.
 
 Props are state that is passed down from parent to child component
