@@ -13,7 +13,7 @@ Think in react means being able to see an entire project broken down into consti
 
 1. Describe state.
 
-data
+Data
  
  
 1. Describe props.
